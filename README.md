@@ -71,6 +71,7 @@ This project combines a local LLM workflow with browser inspection and Playwrigh
 Automated Test Execution
 Technologies
 Python Playwright Qwen Ollama LLM GenAI Browser Automation
+
 2. 🧠 CareMinds-AI
 Hybrid LLM + RAG based AI application.
 A healthcare-focused AI project using a Retrieval-Augmented Generation approach to work with a large structured dataset.
@@ -83,6 +84,7 @@ Highlights
 - AI-assisted information retrieval
 Technologies
 Python LLM RAG LangChain Hugging Face Machine Learning
+
 3. 📊 ATM Cash Demand Forecasting
 Machine Learning project for ATM withdrawal demand forecasting.
 The project works with historical ATM transaction data and applies feature engineering and machine-learning techniques to forecast cash demand.
