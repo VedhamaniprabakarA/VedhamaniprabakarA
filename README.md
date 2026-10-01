@@ -67,25 +67,7 @@ Database & Developer Tools
 1. 🤖 AI-Driven Web Testing Agent
 AI-powered web application testing using LLMs and Playwright automation.
 This project combines a local LLM workflow with browser inspection and Playwright to generate and execute automated web tests.
-Workflow
-Web Application
-       │
-       ▼
-Browser Inspection
-       │
-       ▼
-Page Snapshot
-       │
-       ▼
-LLM / Qwen Model
-       │
-       ▼
-Test Case Generation
-       │
-       ▼
-Playwright Automation
-       │
-       ▼
+
 Automated Test Execution
 Technologies
 Python Playwright Qwen Ollama LLM GenAI Browser Automation
@@ -104,27 +86,7 @@ Python LLM RAG LangChain Hugging Face Machine Learning
 3. 📊 ATM Cash Demand Forecasting
 Machine Learning project for ATM withdrawal demand forecasting.
 The project works with historical ATM transaction data and applies feature engineering and machine-learning techniques to forecast cash demand.
-Workflow
-Historical ATM Data
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Date Processing
-        │
-        ▼
-Feature Engineering
-        │
-        ├── Year
-        ├── Month
-        └── Day
-        │
-        ▼
-XGBoost Model
-        │
-        ▼
-Cash Demand Forecast
+
 Technologies
 Python Pandas Matplotlib XGBoost Machine Learning
 4. 🔗 GitHub & Jira AI Knowledge System
@@ -142,35 +104,7 @@ Key Areas
 Technologies
 Python LLM Transformers GitHub API Jira LangChain REST APIs
 🧪 AI Engineering
-My current AI development work focuses on building systems around:
-                 ┌────────────────────┐
-                 │       USER         │
-                 └─────────┬──────────┘
-                           │
-                           ▼
-                 ┌────────────────────┐
-                 │  APPLICATION/API   │
-                 └─────────┬──────────┘
-                           │
-                           ▼
-              ┌─────────────────────────┐
-              │     AI / LLM LAYER      │
-              │                         │
-              │  LLM • RAG • LangChain │
-              └───────────┬─────────────┘
-                          │
-             ┌────────────┴────────────┐
-             ▼                         ▼
-      ┌─────────────┐           ┌─────────────┐
-      │  Retrieval  │           │   Tools /   │
-      │  & Context  │           │ Automation  │
-      └──────┬──────┘           └──────┬──────┘
-             │                         │
-             └────────────┬────────────┘
-                          ▼
-                 ┌────────────────────┐
-                 │    AI RESPONSE     │
-                 └────────────────────┘
+
 🛠️ Technical Stack
 Category	Technologies
 Programming	Python,
@@ -239,9 +173,13 @@ I am interested in opportunities involving:
 <img src="https://img.shields.io/badge/GitHub-VedhamaniprabakarA-181717?style=for-the-badge&logo=github" />
 </a>
 
-<!-- Replace the LinkedIn URL below with your actual profile URL -->
-<a href="https://www.linkedin.com/">
+
+<a href="https://www.linkedin.com/](https://www.linkedin.com/in/vedhamani-prabakar-a-60ab7b216/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://huggingface.co/vedhamani/CareMinds-AI">
+  <img src="https://img.shields.io/badge/Hugging%20Face-CareMinds--AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 
 </div>
