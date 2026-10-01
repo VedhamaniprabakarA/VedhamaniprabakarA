@@ -60,7 +60,7 @@ Automation & Testing
 
 Database & Developer Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,linux,docker,vscode" />
 </p>
 
 🚀 Featured Projects
