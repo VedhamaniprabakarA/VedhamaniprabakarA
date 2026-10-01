@@ -135,7 +135,7 @@ Operating Systems	Linux, Windows
 📈 GitHub Statistics
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VedhamaniprabakarA&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedhamaniprabakarA&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="38%" />
 
